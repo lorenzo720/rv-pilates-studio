@@ -15,9 +15,11 @@ import {
   Quote,
 } from "lucide-react";
 
-const fotoHero = "/333.jpg";
-const fotoPilates = "/337.jpg";
-const fotoBemEstar = "/340.jpg";
+const fotoHero = "/IMG-20260527-WA0009.jpg";
+const fotoPilates = "/IMG-20260527-WA0010.jpg";
+const fotoBemEstar = "/IMG-20260527-WA0011.jpg";
+
+
 
 export default function App() {
   const whatsapp =
